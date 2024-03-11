@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Fundamentals**
 
-- 💬 Ask me about **javascript, html, tailwind**
+- 💬 Ask me about **Javascript, Html, Tailwind**
 
 - 📫 How to reach me **md.maheen.billah.97@gmail.com**
 
