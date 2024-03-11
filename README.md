@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **md.maheen.billah.97@gmail.com**
 
-- ⚡ Fun fact **I prefer texting to phone calls.**
+- ⚡ Fun fact- **I prefer texting to phone calls.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
