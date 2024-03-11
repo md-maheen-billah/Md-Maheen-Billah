@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Md. Maheen Billah</h1>
 <h3 align="center">A passionate frontend developer from Belgium</h3>
-<img align="right" alt="Coding" width="300" src="https://giffiles.alphacoders.com/193/193890.gif">
+<img align="right" alt="Coding" width="350" src="https://giffiles.alphacoders.com/193/193890.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-maheen-billah&label=Profile%20views&color=0e75b6&style=flat" alt="md-maheen-billah" /> </p>
