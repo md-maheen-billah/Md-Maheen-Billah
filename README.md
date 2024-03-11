@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-maheen-billah&label=Profile%20views&color=0e75b6&style=flat" alt="md-maheen-billah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mdmaheen_billah" target="blank"><img src="https://img.shields.io/twitter/follow/mdmaheen_billah?logo=twitter&style=for-the-badge" alt="mdmaheen_billah" /></a> </p>
 
 - 🌱 I’m currently learning **React Fundamentals**
 
