@@ -30,6 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-maheen-billah&show_icons=true&locale=en&layout=compact" alt="md-maheen-billah" /></p>
 
+</hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-maheen-billah&show_icons=true&locale=en" alt="md-maheen-billah" /></p>
 
