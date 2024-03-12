@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Md. Maheen Billah</h1>
-<h3 align="center">An electrical and electronic engineering graduate and a passionate web developer from Belgium</h3>
+<h3 align="center">An Electrical & Electronic Engineering Graduate and a passionate Web Developer from Belgium</h3>
 <img align="right" alt="Coding" width="300" h="auto" src="https://giffiles.alphacoders.com/193/193890.gif">
 
 
