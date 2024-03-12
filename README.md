@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<h1 align="center">Hi 👋, I'm Md. Maheen Billah</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Md. Maheen Billah</h1>
 <h3 align="center">An Electrical & Electronic Engineering Graduate and a passionate Web Developer from Belgium</h3>
-<img align="right" alt="Coding" width="320" h="auto" src="https://giffiles.alphacoders.com/193/193890.gif">
+<img align="right" alt="Coding" width="450" h="auto" src="https://giffiles.alphacoders.com/193/193890.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-maheen-billah&label=Profile%20views&color=0e75b6&style=flat" alt="md-maheen-billah" /> </p>
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact- **I prefer texting to phone calls.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdmaheen_billah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmaheen_billah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-maheen-billah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-maheen-billah" height="30" width="40" /></a>
