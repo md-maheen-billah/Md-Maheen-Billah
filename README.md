@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Firebase Authentication**
 
-- 💬 Ask me about **Javascript, Html, Tailwind**
+- 💬 Ask me about **Javascript, Html, CSS, Tailwind, React**
 
 - 📫 How to reach me **md.maheen.billah.97@gmail.com**
 
