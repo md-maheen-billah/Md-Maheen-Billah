@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Express.Js**
+- 🌱 I’m currently learning **Node.Js | Express.Js | MongoDB*
 
 - 💬 Ask me about **Javascript | Html | CSS | Tailwind | React**
 
