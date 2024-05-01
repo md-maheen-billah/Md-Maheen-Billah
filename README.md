@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **CRUD Operation**
+- 🌱 I’m currently learning **JWT | Axios**
 
 - 💬 Ask me about **Javascript | Node.Js | Express.Js | MongoDB | React**
 
