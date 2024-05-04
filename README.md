@@ -29,7 +29,6 @@
 | Database      |![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | IDE           |![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
 <br>
-<br>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=md-maheen-billah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=md-maheen-billah&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00&include_all_commits=false&count_private=false&layout=compact">
