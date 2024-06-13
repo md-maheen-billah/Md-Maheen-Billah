@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **JWT | Axios**
+- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **Javascript | Node.Js | Express.Js | MongoDB | React**
 
