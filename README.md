@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about **Javascript | Node.Js | Express.Js | MongoDB | React**
+- 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React**
 
 - 📫 How to reach me **md.maheen.billah.97@gmail.com**
 
