@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **C Programming Language**
 
 - 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React **
 
