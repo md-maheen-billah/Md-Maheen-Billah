@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **C Programming Language**
+- 🌱 I’m currently learning **C Programming Language & Typescript**
 
-- 💬 Ask me about ** Node.Js | Express.Js | MongoDB | React **
+- 💬 Ask me about ** Frontend Development and C programming **
 
 - 📫 How to reach me **md.maheen.billah.97@gmail.com**
 
