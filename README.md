@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20Fellow%20Developers&width=1920&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi, <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Md Maheen Billah</h1>
-<h3 align="center">A Junior Web Developer (MERN) from Belgium & An Electrical & Electronic Engineering Graduate</h3>
+<h3 align="center">A Software Engineering Enthusiast from Belgium & An Electrical & Electronic Engineering Graduate</h3>
 <img align="right" alt="Coding" width="250" h="auto" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif">
 
 [![wakatime](https://wakatime.com/badge/user/018e9584-7169-4db4-aad5-e38d7dd27d26.svg)](https://wakatime.com/@018e9584-7169-4db4-aad5-e38d7dd27d26)
