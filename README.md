@@ -17,7 +17,8 @@
 - ⚡ Fun fact- **I prefer texting to phone calls.**
 
 # <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="40" /> Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.maheen.billah.97) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.maheen.billah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-maheen-billah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdmaheen_billah) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.maheen.billah.97) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.maheen.billah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-maheen-billah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdmaheen_billah) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="40" /> Technologies:
 | Stacks        | Technologies  |
