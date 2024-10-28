@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C Programming Language & Typescript**
 
-- 💬 Ask me about ** Frontend Development and C programming **
+- 💬 Ask me about ** Frontend Technologies and Problem Solving **
 
 - 📫 How to reach me **md.maheen.billah.97@gmail.com**
 
