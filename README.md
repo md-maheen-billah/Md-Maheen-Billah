@@ -25,7 +25,7 @@
 
 ## About Me 👉😇👈
 
-I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electronic Engineering from [Independent University, Bangladesh](http://iub.ac.bd/). A Full-stack developer passionate about crafting innovative solutions! Fueled by a collaborative spirit, I leverage my skills at Mybee Digital Agency to bridge the gap between front-end and back-end development. A lifelong learner, I constantly seek ways to improve my communication and technical abilities. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electronic Engineering from [Independent University, Bangladesh](http://iub.ac.bd/). A Full-stack developer passionate about crafting innovative solutions! Fueled by a collaborative spirit for innovative/disruptive ideas, I leverage my skills to bridge the gap between front-end and back-end development. A lifelong learner, I constantly seek ways to improve my communication and technical abilities.
 
 💻 I love to participate in coding competitions.
 
