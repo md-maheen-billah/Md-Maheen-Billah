@@ -25,7 +25,7 @@
 
 ## About Me 👉😇👈
 
-I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electronic Engineering from [Independent University, Bangladesh](http://iub.ac.bd/). I have a passion for learning new things. I am a full-stack web developer with 1+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electronic Engineering from [Independent University, Bangladesh](http://iub.ac.bd/). I have a passion for learning new things. I am a full-stack developer with 1+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 💻 I love to participate in coding competitions.
 
