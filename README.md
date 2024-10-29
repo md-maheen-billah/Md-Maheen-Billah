@@ -38,7 +38,7 @@ I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electroni
 
 <hr/>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="40" /> Technologies:
+## 🧠 Skills
 | Stacks        | Technologies  |
 | ------------- | ------------- |
 | Language      | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|
