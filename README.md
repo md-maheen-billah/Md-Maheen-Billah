@@ -20,7 +20,7 @@
 	<a href="https://www.instagram.com/md.maheen.billah.97/"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
 </p>
 
-
+<hr/>
 <!-- About Me Section -->
 
 ## About Me 👉😇👈
@@ -35,7 +35,6 @@ I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electroni
 
 🤔 **I’m Open to Work on Domain like Web Development, Software Development**
 
-<hr/>
 
 ## 🧠 Skills
 | Stacks        | Technologies  |
