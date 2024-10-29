@@ -31,7 +31,7 @@ I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electroni
 
 👯 I’m looking to collaborate on Open-Source Projects
 
-📖 I’m currently working on few projects and learning DSA to improve my competitive programming skill.
+📖 I’m currently learning C Programming Language and Typescript.
 
 🤔 **I’m Open to Work on Domain like Web Development, Software Development**
 
