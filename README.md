@@ -20,7 +20,6 @@
 	<a href="https://www.instagram.com/md.maheen.billah.97/"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
 </p>
 
-<hr />
 
 <!-- About Me Section -->
 
