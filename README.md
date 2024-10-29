@@ -30,9 +30,6 @@
 | IDE           |![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
 <br>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=md-maheen-billah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=md-maheen-billah&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00&include_all_commits=false&count_private=false&layout=compact">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=md-maheen-billah&theme=darcula&hide_border=true&background=FFFFFF00">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
