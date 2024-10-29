@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
-	Hi, I am Md Maheen Billah! Great to see you here!
+	Hi, I am Maheen! Great to see you here!
 	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
 </h1>
 
