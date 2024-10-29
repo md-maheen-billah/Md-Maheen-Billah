@@ -1,20 +1,42 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=BIENVENUE%20À%20TOUS&width=1920&height=200)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi, <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm Md Maheen Billah</h1>
-<h3 align="center">A Software Engineering Enthusiast from Belgium & An Electrical & Electronic Engineering Graduate</h3>
-<img align="right" alt="Coding" width="250" h="auto" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif">
+<h1 align="center">
+	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
+	Hi, I am Md Maheen Billah! Great to see you here!
+	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
+</h1>
 
-[![wakatime](https://wakatime.com/badge/user/018e9584-7169-4db4-aad5-e38d7dd27d26.svg)](https://wakatime.com/@018e9584-7169-4db4-aad5-e38d7dd27d26)
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=md-maheen-billah&label=Profile%20views&color=0e75b6&style=flat" alt="md-maheen-billah" /> </a>
+<!-- Typing Intro Section -->
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F24A72&center=true&vCenter=true&width=500&lines=I+am+a+Full+Stack+Web+Developer..;I+am+a+Competitive+Programmer..." alt="Typing SVG" /></a>
+</p>
 
+<!-- Social icons section -->
+<p align="center">
+	<a href="https://linkedin.com/in/md-maheen-billah"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
+	&#8287;&#8287;&#8287;&#8287;&#8287;
+	<a href="https://x.com/mdmaheen_billah"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
+	&#8287;&#8287;&#8287;&#8287;&#8287;
+	<a href="https://facebook.com/md.maheen.billah.97" alt="Facebook" title="Facebook"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
+	&#8287;&#8287;&#8287;&#8287;&#8287;
+	<a href="https://instagram.com/md.maheen.billah"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
+</p>
 
+<hr />
 
-- 🌱 I’m currently learning **C Programming Language & Typescript**
+<!-- About Me Section -->
 
-- 💬 Ask me about **Frontend Technologies and Problem Solving**
+## About Me 👉😇👈
 
-- 📫 How to reach me **md.maheen.billah.97@gmail.com**
+I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electronic Engineering from [Independent University, Bangladesh](http://iub.ac.bd/). I have a passion for learning new things. I am a full-stack web developer with 1+ years of coding experience. I am always open to collaborating on projects and innovative/disruptive ideas.
 
-- ⚡ Fun fact- **I’m not satisfied with surface-level answers when it comes to programming—I like to dive deep into the details.**
+💻 I love to participate in coding competitions.
+
+👯 I’m looking to collaborate on Open-Source Projects
+
+📖 I’m currently working on few projects and learning DSA to improve my competitive programming skill.
+
+🤔 **I’m Open to Work on Domain like Web Development, Software Development**
+
+<hr/>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="40" /> Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.maheen.billah.97) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.maheen.billah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-maheen-billah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdmaheen_billah)
