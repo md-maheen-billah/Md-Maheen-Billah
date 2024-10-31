@@ -25,9 +25,9 @@
 
 ## About Me 👉😇👈
 
-I am Md Maheen Billah, I have completed my B.Sc degree in Electrical & Electronic Engineering from [Independent University, Bangladesh](http://iub.ac.bd/). Fueled by a collaborative spirit for innovative/disruptive ideas, I leverage my skills to bridge the gap between front-end and back-end development. A lifelong learner, I constantly seek ways to improve my communication and technical abilities.
+I am a full-stack developer with a good grasp in both front-end and back-end development. I specialize in building and maintaining user-friendly web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning, I actively seek opportunities to improve my technical and communication skills.
 
-💻 I love to participate in coding competitions.
+
 
 📖 I’m currently learning C Programming Language and Typescript.
 
