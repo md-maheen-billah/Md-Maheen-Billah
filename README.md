@@ -25,7 +25,7 @@
 
 ## About Me 👉😇👈
 
-As a full-stack developer I leverage my skills to bridge the gap between front-end and back-end development. I specialize in building and maintaining user-friendly web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning, I actively seek opportunities to improve my technical and communication skills.
+>As a full-stack developer I leverage my skills to bridge the gap between front-end and back-end development. I specialize in building and maintaining user-friendly web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning, I actively seek opportunities to improve my technical and communication skills.
 
 
 📍 I live in Brussels, Belgium
