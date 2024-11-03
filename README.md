@@ -43,26 +43,20 @@
 #include <iostream>
 
 int main() {
-    // Check if the code is functioning correctly
     bool isCodeWorking = true;
     int codeQuality = 0;
     const int perfection = 100; // Assuming perfection is represented by 100
 
     if (isCodeWorking) {
-        // Continuously improve the code quality until it reaches perfection
         while (codeQuality < perfection) {
-            codeQuality++; // Increment code quality
+            codeQuality++; 
         }
     }
 
-    // Infinite loop to represent "while alive"
     while (true) {
-        // Hypothetical functions to represent actions
         std::cout << "Eating...\n";
         std::cout << "Sleeping...\n";
         std::cout << "Coding...\n";
-        
-        // Add a delay or condition to exit, if necessary
     }
 
     return 0;
