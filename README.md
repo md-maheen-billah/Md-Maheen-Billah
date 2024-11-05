@@ -30,7 +30,7 @@
 
 📍 I live in Brussels, Belgium
 
-📖 I’m currently learning C Programming Language and Typescript.
+📖 I’m currently learning C++ and Typescript.
 
 🤔 **I’m Open to Work on Domain like Web Development, Software Development**
 
