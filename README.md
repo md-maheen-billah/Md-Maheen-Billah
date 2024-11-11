@@ -36,19 +36,9 @@
 
 
 ## Technologies 🧠 
-<h1 align="center">
-	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
-	Hi, I am Maheen! Great to see you here!
-	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
-</h1>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,nextjs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,mongoose,nodejs,express,mongodb" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,mongoose,nodejs,express,mongodb,nextjs,react,html,css,tailwind,firebase" />
   </a>
 </p>
 
