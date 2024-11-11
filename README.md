@@ -28,11 +28,11 @@
 >As a full-stack developer I am constantly trying to bridge the gap between front-end and back-end development. I enjoy building and maintaining web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning to improve my technical and communication skills.
 
 
-📍 I live in Brussels, Belgium 🇧🇪
+📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
 
 📖 I’m currently learning C++ and Mongoose.
 
-🤔 **I’m Open to Work on Domain like Web Development, Software Development**
+🤔 I’m Open to Work on Domain like **Web Development, Software Development**
 
 
 ## Technologies 🧠 
