@@ -29,7 +29,7 @@
 
 🤔 I’m Open to Work on Domain like **Web Development, Software Development**
 
-📫 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/md-maheen-billah/) or mail me at **md.maheen.billah.97@gmail.com**
+📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/md-maheen-billah/) or mail me at **md.maheen.billah.97@gmail.com**
 
 
 ## Technologies 🧠 
