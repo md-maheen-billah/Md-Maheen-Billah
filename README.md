@@ -4,11 +4,6 @@
 	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
 </h1>
 
-<!-- Typing Intro Section -->
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F24A72&center=true&vCenter=true&width=500&lines=I+am+a+Full+Stack+Developer...;I+am+a+Problem+Solver...;I+am+a+Competitive+Programmer..." alt="Typing SVG" /></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
 	<a href="https://linkedin.com/in/md-maheen-billah"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
