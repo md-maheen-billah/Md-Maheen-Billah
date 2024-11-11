@@ -34,7 +34,7 @@
 
 🤔 **I’m Open to Work on Domain like Web Development, Software Development**
 
-
+<br/>
 ## 🧠 Skills
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
