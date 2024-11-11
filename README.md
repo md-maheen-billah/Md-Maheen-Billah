@@ -34,7 +34,6 @@
 
 🤔 **I’m Open to Work on Domain like Web Development, Software Development**
 
-<br/>
 
 ## 🧠 Skills
 
