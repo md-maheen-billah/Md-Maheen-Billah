@@ -23,14 +23,10 @@
 >As a full-stack developer I am constantly trying to bridge the gap between front-end and back-end development. I enjoy building and maintaining web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning to improve my technical and communication skills.
 
 
-📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
-
-🌱 I’m currently learning C++ and Mongoose.
-
-🤔 I’m Open to Work on Domain like **Web Development, Software Development**
-
-📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/md-maheen-billah/) or mail me at **md.maheen.billah.97@gmail.com**
-
+<p>📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**</p>
+<p>🌱 I’m currently learning C++ and Mongoose.</p>
+<p>🤔 I’m Open to Work on Domain like **Web Development, Software Development**</p>
+<p>📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/md-maheen-billah/) or mail me at **md.maheen.billah.97@gmail.com**</p>
 
 ## Technologies 🧠 
 <p align="center">
