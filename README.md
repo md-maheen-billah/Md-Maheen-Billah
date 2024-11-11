@@ -25,12 +25,12 @@
 
 ## About Me 👉😇👈
 
->As a full-stack developer I leverage my skills to bridge the gap between front-end and back-end development. I specialize in building and maintaining user-friendly web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning, I actively seek opportunities to improve my technical and communication skills.
+>As a full-stack developer I am constantly trying to bridge the gap between front-end and back-end development. I enjoy building and maintaining web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning to improve my technical and communication skills.
 
 
 📍 I live in Brussels, Belgium
 
-📖 I’m currently learning C++ and Typescript.
+📖 I’m currently learning C++ and Mongoose.
 
 🤔 **I’m Open to Work on Domain like Web Development, Software Development**
 
