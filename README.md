@@ -45,25 +45,3 @@
 
 <br/>
 
-``` c++
-#include <iostream>
-
-int main() {
-    bool isCodeWorking = true;
-    int codeQuality = 0;
-    const int perfection = 100; // Assuming perfection is represented by 100 >_<
-
-    if (isCodeWorking) {
-        while (codeQuality < perfection) {
-            codeQuality++; 
-        }
-    }
-
-    while (true) {
-        std::cout << "Eating...\n";
-        std::cout << "Sleeping...\n";
-        std::cout << "Coding...\n";
-    }
-
-    return 0;
-}
