@@ -39,16 +39,12 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,nextjs" />
   </a>
 </p>
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose,nodejs,express,mongodb" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,mongoose,nodejs,express,mongodb" />
   </a>
 </p>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,html,css,tailwind" />
-  </a>
-</p>
+
