@@ -30,6 +30,6 @@
 🤔 I’m Open to Work on Domain like **Web Development, Software Development**
 
 ## Technologies 🧠 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,mongoose,nodejs,express,mongodb,nextjs,react,html,css,tailwind,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,mongoose,nodejs,express,mongodb,nextjs,react,html,css,tailwind,firebase&titles=true)
 
 
