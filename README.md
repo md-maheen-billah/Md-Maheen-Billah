@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1>
 	<img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="50">
 	Hi, I am Maheen! Great to see you here!
 	<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50">
 </h1>
 
 <!-- Social icons section -->
-<p align="center">
+<p>
 	<a href="https://linkedin.com/in/md-maheen-billah"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
 	<a href="https://x.com/mdmaheen_billah"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
