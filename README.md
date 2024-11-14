@@ -24,7 +24,7 @@
 
 📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
 
-🌱 I’m currently learning **C++ and Mongoose**.
+🌱 I’m currently learning **C++, Typescript and Mongoose**.
 
 🤔 I’m Open to Work on Domains like **Web Development, Software Development**
 
