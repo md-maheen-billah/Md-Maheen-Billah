@@ -19,7 +19,7 @@
 
 ## About Me 👉😇👈
 
->As a full-stack developer I am constantly trying to bridge the gap between front-end and back-end development. I enjoy building and maintaining web applications, integrating APIs, and managing databases to enhance performance and scalability. Committed to continuous learning to improve my technical and communication skills.
+>As a full-stack developer I am constantly trying to bridge the gap between front-end and back-end development. I enjoy building and maintaining web applications, integrating APIs, and managing databases to enhance performance and scalability. Also I am committed to continuous learning in order to improve my technical and communication skills.
 
 
 📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
