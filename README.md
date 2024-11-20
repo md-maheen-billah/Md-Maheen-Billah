@@ -5,13 +5,13 @@
 
 <!-- Social icons section -->
 <p>
-	<a href="https://linkedin.com/in/md-maheen-billah"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" /></a>
+	<a href="https://linkedin.com/in/md-maheen-billah"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://x.com/mdmaheen_billah"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" /></a>
+	<a href="https://x.com/mdmaheen_billah"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://facebook.com/md.maheen.billah.97" alt="Facebook" title="Facebook"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" /></a>
+	<a href="https://facebook.com/md.maheen.billah.97" alt="Facebook" title="Facebook"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://www.instagram.com/md.maheen.billah.97/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" /></a>
+	<a href="https://www.instagram.com/md.maheen.billah.97/"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
 </p>
 
 
