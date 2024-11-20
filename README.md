@@ -24,7 +24,7 @@
 
 📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
 
-🌱 I’m currently learning **Data Structure using C++**.
+🌱 I’m currently learning **Data Structures using C++**.
 
 🤔 I’m Open to Work on Domains like **Web Development, Software Development**
 
