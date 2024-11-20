@@ -4,15 +4,14 @@
 </h1>
 
 <!-- Social icons section -->
-<p>
-	<a href="https://linkedin.com/in/md-maheen-billah" target="_blank" rel="noopener noreferrer"><img width="32px" target="_blank" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://x.com/mdmaheen_billah" target="_blank" rel="noopener noreferrer"><img width="32px" target="_blank" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://facebook.com/md.maheen.billah.97" alt="Facebook" title="Facebook" target="_blank" rel="noopener noreferrer"><img width="32px" target="_blank" src="./images/facebook.png"/></a>
-	&#8287;&#8287;&#8287;&#8287;&#8287;
-	<a href="https://www.instagram.com/md.maheen.billah.97/" target="_blank" rel="noopener noreferrer"><img width="32px" target="_blank" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
-</p>
+<a href="https://linkedin.com/in/md-maheen-billah" target="_blank" rel="noopener noreferrer"><img width="32px" alt="Linkedin" title="Linkedin" src="./images/linkedin.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://x.com/mdmaheen_billah" target="_blank" rel="noopener noreferrer"><img width="32px" alt="Twitter" title="Twitter" src="./images/twitter.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://facebook.com/md.maheen.billah.97" target="_blank" rel="noopener noreferrer"><img width="32px" alt="Facebook" title="Facebook" src="./images/facebook.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://www.instagram.com/md.maheen.billah.97/" target="_blank" rel="noopener noreferrer"><img width="32px" alt="Instagram" title="Instagram" src="./images/instagram.png"></a>
+
 
 
 <!-- About Me Section -->
@@ -30,5 +29,7 @@
 
 ## Technologies 🧠 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,mongoose,nodejs,express,mongodb,nextjs,react,html,css,tailwind,firebase)
+
+
 
 
