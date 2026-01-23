@@ -18,14 +18,18 @@
 
 ## About Me 👉😇👈
 
->As a full-stack developer I am constantly trying to bridge the gap between front-end and back-end development. I enjoy building and maintaining web applications, integrating APIs, and managing databases to enhance performance and scalability. Also I am committed to continuous learning in order to improve my technical and communication skills.
+>Passionate about Data Science and Artificial Intelligence, I am developing my skills in data analysis, modeling, and building intelligent data-driven solutions to solve real-world problems and create meaningful impact. I am actively learning Python and exploring modern tools and technologies related to AI and data-oriented systems.
+
+Alongside this, I have built a solid foundation in software development through several personal full-stack projects, where I designed complete web applications, integrated APIs, and managed databases to ensure performance, reliability, and scalability.
+
+I am committed to continuous learning to further strengthen my technical, analytical, and communication skills.
 
 
 📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
 
-🌱 I’m currently focusing on **Data Structures & Algorithms using C++**.
+🌱 I’m currently focusing on **Python and actively exploring technologies related to Data Science and AI**.
 
-🤔 I’m Open to Work on Domains like **Web Development, Software Development**
+🤔 I’m open to opportunities in **Data Science and Artificial Intelligence**
 
 ## Technologies 🧠 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,typescript,javascript,mongoose,nodejs,express,mongodb,nextjs,react,html,css,tailwind,firebase)
