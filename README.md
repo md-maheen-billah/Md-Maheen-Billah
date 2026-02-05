@@ -32,7 +32,7 @@
 🤔 I’m open to opportunities in **Data Science and Artificial Intelligence**
 
 ## Technologies 🧠 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,mongoose,nodejs,express,mongodb,nextjs,react,html,css,tailwind,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,nodejs,express,mongodb,react,html,css,tailwind,firebase)
 
 
 
