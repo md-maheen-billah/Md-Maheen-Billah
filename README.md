@@ -18,11 +18,30 @@
 
 ## About Me 👉😇👈
 
->I am a Data & AI Developer with a strong interest in building reliable, data-driven and AI-powered solutions. My experience includes data analysis, machine learning, data pipelines, API development, and evaluating Generative AI solutions through structured metrics, reference datasets, and automated testing frameworks..
+### Data & AI Developer | Python • Data Engineering • GenAI • Cloud • Automation
 
->I also have a solid foundation in software development, gained through full-stack projects where I built web applications, integrated REST APIs, managed databases, and containerized applications using Docker.
+I am completing the BeCode AI & Data Science bootcamp and beginning a Data & AI internship at Accenture, where I will help build an evaluation framework for Generative AI solutions used in application management and software development.
 
->I am continuously expanding my knowledge of modern Data and AI technologies, including Python, SQL, FastAPI, Airflow, Spark, Azure, Docker, and Kubernetes, while strengthening my ability to transform real-world problems into practical and scalable technical solutions.
+My work will involve defining evaluation metrics, curating reference datasets, automating the assessment of AI-generated outputs, and tracking improvements across different solution versions.
+
+I enjoy developing end-to-end data solutions—from collecting and transforming raw data to building automated pipelines, APIs, machine learning applications, and interactive dashboards. I also enjoy solving real-world problems by combining data engineering, software development, automation, cloud technologies, and artificial intelligence.
+
+My projects and training have given me experience with:
+
+* ⚙️ End-to-end ETL and data pipelines
+* 🧹 Data cleaning, transformation, and validation
+* 🔄 Workflow orchestration with Airflow
+* 📊 Data analysis and interactive dashboards
+* 🤖 Machine learning and Generative AI evaluation
+* 👁️ Computer vision systems using YOLOv8 and OpenCV
+* 🚀 CI/CD automation
+* 🌐 REST API development with FastAPI
+* 📦 Containerized application deployment with Docker
+* ☁️ Cloud-based data and AI solutions
+* 🗄️ SQL, MongoDB, and database management
+* 🔍 Web scraping and data collection
+
+I am particularly interested in **Data Engineering**, **Generative AI**, **Cloud Platforms**, **Automation**, and **scalable data infrastructure**. I am continuously strengthening my skills in technologies such as Python, SQL, Airflow, Spark, Azure, Docker, and Kubernetes.
 
 
 📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**.
@@ -31,7 +50,7 @@
 
 
 ## Technologies 🧠 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,pandas,numpy,scikitlearn,opencv,airflow,spark,kafka,azure,docker,kubernetes,fastapi,mongodb,postgresql,sqlite,bash,git,postman,nodejs,express,react,html,css,tailwind)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,pandas,numpy,scikitlearn,opencv,airflow,spark,kafka,azure,docker,kubernetes,elasticsearch,githubactions,fastapi,mongodb,postgresql,sqlite,bash,git,postman,nodejs,express,react,html,css,tailwind)
 
 
 
