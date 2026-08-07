@@ -18,21 +18,20 @@
 
 ## About Me 👉😇👈
 
->Passionate about Data Science and Artificial Intelligence, I am developing my skills in data analysis, modeling, and building intelligent data-driven solutions to solve real-world problems and create meaningful impact. I am actively learning Python and exploring modern tools and technologies related to AI and data-oriented systems.
+>I am a Data & AI Developer with a strong interest in building reliable, data-driven and AI-powered solutions. My experience includes data analysis, machine learning, data pipelines, API development, and evaluating Generative AI solutions through structured metrics, reference datasets, and automated testing frameworks..
 
->Alongside this, I have built a solid foundation in software development through several personal full-stack projects, where I designed complete web applications, integrated APIs, and managed databases to ensure performance, reliability, and scalability.
+>I also have a solid foundation in software development, gained through full-stack projects where I built web applications, integrated REST APIs, managed databases, and containerized applications using Docker.
 
->I am committed to continuous learning to further strengthen my technical, analytical, and communication skills.
+>I am continuously expanding my knowledge of modern Data and AI technologies, including Python, SQL, FastAPI, Airflow, Spark, Azure, Docker, and Kubernetes, while strengthening my ability to transform real-world problems into practical and scalable technical solutions.
 
 
-📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**
+📍 I am a citizen of **the Kingdom of Belgium** and **People's Republic of Bangladesh**.
 
-🌱 I’m currently focusing on **Python and actively exploring technologies related to Data Science and AI**.
+🌱 I’m currently focusing on **building a framework to measure the quality and impact of GenAI solutions**.
 
-🤔 I’m open to opportunities in **Data Science and Artificial Intelligence**
 
 ## Technologies 🧠 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,nodejs,express,mongodb,react,html,css,tailwind,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,javascript,typescript,pandas,numpy,scikitlearn,opencv,airflow,spark,kafka,azure,docker,kubernetes,fastapi,mongodb,postgresql,sqlite,bash,git,postman,nodejs,express,react,html,css,tailwind)
 
 
 
